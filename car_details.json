@@ -1,0 +1,872 @@
+{
+    "highlights": [
+        "Engine Immobiliser",
+        "ORVM (Outside Rear View Mirrors)",
+        "Adjustable ORVMs",
+        "Infotainment Screen",
+        "Smart Connectivity",
+        "Input Methods",
+        "Bluetooth Compatibility",
+        "Voice Command",
+        "Audio System",
+        "Integrated (in-dash) Music System",
+        "AM/FM Radio",
+        "Steering-Mounted Controls",
+        "Over The Air (OTA) Updates"
+    ],
+    "specifications": [
+        {
+            "key": "Engine Performance",
+            "value": [
+                {
+                    "key": "Mileage",
+                    "value": "ARAI: 21.79 kmpl | User Reported: 20 kmpl"
+                },
+                {
+                    "key": "Fuel Type",
+                    "value": "Petrol"
+                },
+                {
+                    "key": "Ethanol Compatibility",
+                    "value": "E20"
+                },
+                {
+                    "key": "Engine Type",
+                    "value": "1.2L Dual Jet, Dual VVT"
+                },
+                {
+                    "key": "Engine",
+                    "value": "1197 cc, 4 Cylinders Inline, 4 Valves/Cylinder, DOHC"
+                },
+                {
+                    "key": "Max Power (bhp@rpm)",
+                    "value": "89 bhp @ 6000 rpm"
+                },
+                {
+                    "key": "Max Torque (Nm@rpm)",
+                    "value": "113 Nm @ 4400 rpm"
+                },
+                {
+                    "key": "Turbocharger/ Supercharger",
+                    "value": "No"
+                },
+                {
+                    "key": "Idle Start/Stop",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Emission Standard",
+                    "value": "BS6 Phase 2"
+                }
+            ]
+        },
+        {
+            "key": "Battery Charging & Range",
+            "value": [
+                {
+                    "key": "Driving Range",
+                    "value": "806"
+                },
+                {
+                    "key": "Pure Electric Driving Mode",
+                    "value": "No"
+                }
+            ]
+        },
+        {
+            "key": "Transmission & Drivetrain",
+            "value": [
+                {
+                    "key": "Transmission",
+                    "value": "Manual - 5 Gears"
+                },
+                {
+                    "key": "Drivetrain",
+                    "value": "FWD"
+                },
+                {
+                    "key": "Differential Lock",
+                    "value": "No"
+                },
+                {
+                    "key": "Four-Wheel-Drive",
+                    "value": "No"
+                }
+            ]
+        },
+        {
+            "key": "Suspension",
+            "value": [
+                {
+                    "key": "Front Suspension",
+                    "value": "MacPherson Strut"
+                },
+                {
+                    "key": "Rear Suspension",
+                    "value": "Torsion Beam"
+                }
+            ]
+        },
+        {
+            "key": "Capacity & Dimensions",
+            "value": [
+                {
+                    "key": "Length *Width *Height",
+                    "value": "3995 mm * 1765 mm * 1550 mm"
+                },
+                {
+                    "key": "Wheelbase",
+                    "value": "2520"
+                },
+                {
+                    "key": "Seating Capacity",
+                    "value": "5 Seats and 2 Rows"
+                },
+                {
+                    "key": "Ground Clearance",
+                    "value": "190 mm (unladen)"
+                },
+                {
+                    "key": "Fuel Tank Capacity",
+                    "value": "37"
+                },
+                {
+                    "key": "Doors",
+                    "value": "5"
+                },
+                {
+                    "key": "Minimum Turning Radius",
+                    "value": "4.9"
+                }
+            ]
+        },
+        {
+            "key": "Tyre & Wheels",
+            "value": [
+                {
+                    "key": "Wheels",
+                    "value": "Steel Rims"
+                },
+                {
+                    "key": "Front Tyres",
+                    "value": "195 / 60 R16"
+                },
+                {
+                    "key": "Rear Tyres",
+                    "value": "195 / 60 R16"
+                },
+                {
+                    "key": "Spare Wheel & Tyre",
+                    "value": "Steel (195/60R16), Located in Boot"
+                },
+                {
+                    "key": "Tyres",
+                    "value": "Road Radial - Tubeless Tyres"
+                }
+            ]
+        },
+        {
+            "key": "Warranty",
+            "value": [
+                {
+                    "key": "Vehicle Warranty",
+                    "value": "3 Years / 100000 Kms"
+                }
+            ]
+        }
+    ],
+    "safety": [
+        {
+            "key": "ADAS & Active Safety",
+            "value": [
+                {
+                    "key": "Forward Collision Warning",
+                    "value": "No"
+                },
+                {
+                    "key": "Automatic Emergency Braking",
+                    "value": "No"
+                },
+                {
+                    "key": "Lane Functions",
+                    "value": "No"
+                },
+                {
+                    "key": "Blind Spot Detection",
+                    "value": "No"
+                },
+                {
+                    "key": "High-beam Assist",
+                    "value": "No"
+                },
+                {
+                    "key": "Tyre Pressure Monitoring System (TPMS)",
+                    "value": "No"
+                },
+                {
+                    "key": "Emergency Brake Light Flashing",
+                    "value": "No"
+                }
+            ]
+        },
+        {
+            "key": "Passive Safety (Airbags, NCAP Ratings, etc.)",
+            "value": [
+                {
+                    "key": "Airbags",
+                    "value": "6 Airbags (Driver, Front Passenger, 2 Curtain, Driver Side, Front Passenger Side)"
+                },
+                {
+                    "key": "NCAP Rating",
+                    "value": "1 Star (ANCAP)"
+                },
+                {
+                    "key": "Second Row Middle Seat Safety",
+                    "value": "Rear Middle Head Rest & Rear Middle Three Point Seatbelt"
+                },
+                {
+                    "key": "Child Seat Anchor Points",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Child Safety Lock",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Engine Immobiliser",
+                    "value": "No"
+                },
+                {
+                    "key": "Puncture Repair Kit",
+                    "value": "No"
+                },
+                {
+                    "key": "Dashcam",
+                    "value": "No"
+                }
+            ]
+        },
+        {
+            "key": "Brakes",
+            "value": [
+                {
+                    "key": "Brakes",
+                    "value": "Disc (Front), Drum (Rear)"
+                },
+                {
+                    "key": "Anti-Lock Braking System (ABS)",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Brake Assist (BA)",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Electronic Brake-force Distribution (EBD)",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Electronic Stability Program (ESP)",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Traction Control System (TC/TCS)",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Hill Hold Control",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Hill Descent Control",
+                    "value": "No"
+                }
+            ]
+        }
+    ],
+    "features": [
+        {
+            "key": "AC & Climate Control",
+            "value": [
+                {
+                    "key": "Air Conditioner",
+                    "value": "Automatic Climate Control (Front AC: Single Zone with Fan speed control)"
+                },
+                {
+                    "key": "Heater",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Air Purifier",
+                    "value": "No"
+                }
+            ]
+        },
+        {
+            "key": "Doors, Mirrors & Wipers",
+            "value": [
+                {
+                    "key": "Doors",
+                    "value": [
+                        {
+                            "key": "Central Locking",
+                            "value": "Keyless"
+                        },
+                        {
+                            "key": "Speed Sensing Door Lock",
+                            "value": "Yes"
+                        },
+                        {
+                            "key": "Interior Door Handles Finish",
+                            "value": "Black"
+                        },
+                        {
+                            "key": "Exterior Door",
+                            "value": "Body Coloured Door Handles"
+                        },
+                        {
+                            "key": "Boot Opener",
+                            "value": "Cabin-Release"
+                        }
+                    ]
+                },
+                {
+                    "key": "Inside Mirror",
+                    "value": [
+                        {
+                            "key": "Vanity Mirrors on Sun Visors",
+                            "value": "Co-Driver"
+                        }
+                    ]
+                },
+                {
+                    "key": "Outside Mirror",
+                    "value": [
+                        {
+                            "key": "ORVM (Outside Rear View Mirrors)",
+                            "value": "Body-Coloured finish ORVM Colour"
+                        },
+                        {
+                            "key": "Adjustable ORVMs",
+                            "value": "Externally Adjustable"
+                        },
+                        {
+                            "key": "Anti-glare ORVMs",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "key": "Wiper",
+                    "value": [
+                        {
+                            "key": "Rear Defogger",
+                            "value": "Yes"
+                        },
+                        {
+                            "key": "Rain-sensing Wipers",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Rear Wiper",
+                            "value": "No"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Sunroof & Windows",
+            "value": [
+                {
+                    "key": "Sunroof",
+                    "value": [
+                        {
+                            "key": "Sunroof",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Remote Sunroof: Open / Close via App",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "key": "Windows & Blinds",
+                    "value": [
+                        {
+                            "key": "Power Windows",
+                            "value": "Front & Rear Power Windows, Driver One-touch up/down"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Driver Assistance (Park Assist, Cruise Control, etc.)",
+            "value": [
+                {
+                    "key": "Driver's Aid",
+                    "value": [
+                        {
+                            "key": "Keyless Start/ Button Start",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Cruise Control",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Electronic Parking Brake",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "key": "Parking",
+                    "value": [
+                        {
+                            "key": "Parking Sensors",
+                            "value": "Rear"
+                        },
+                        {
+                            "key": "Parking Assist",
+                            "value": "No"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Storage",
+            "value": [
+                {
+                    "key": "Boot",
+                    "value": [
+                        {
+                            "key": "Bootspace",
+                            "value": "308 L"
+                        },
+                        {
+                            "key": "Boot Opener",
+                            "value": "Cabin-Release"
+                        },
+                        {
+                            "key": "Cabin Boot Access",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "key": "Cabin Storage",
+                    "value": [
+                        {
+                            "key": "Cup Holders",
+                            "value": "Cupholders in Front Only"
+                        },
+                        {
+                            "key": "Door Pockets",
+                            "value": "Front & Rear"
+                        },
+                        {
+                            "key": "Cooled Glovebox",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Front Seatback Pockets",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Driver Armrest Storage",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Sunglass Holder",
+                            "value": "No"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Seating & Ergonomics",
+            "value": [
+                {
+                    "key": "Seat Adjustment",
+                    "value": [
+                        {
+                            "key": "Driver Seat Adjustment",
+                            "value": "6 way manually adjustable (seat: forward / back, backrest tilt: forward / back, headrest: up / down)"
+                        },
+                        {
+                            "key": "Front Passenger Seat Adjustment",
+                            "value": "6 way manually adjustable (seat: forward / back, backrest tilt: forward / back, headrest: up / down)"
+                        },
+                        {
+                            "key": "Second Row Seat Adjustment",
+                            "value": "2 way manually adjustable (headrest: up / down)"
+                        }
+                    ]
+                },
+                {
+                    "key": "Comfort & Ergonomics",
+                    "value": [
+                        {
+                            "key": "Seat Upholstery",
+                            "value": "Fabric"
+                        },
+                        {
+                            "key": "Headrests",
+                            "value": "Front & Rear"
+                        },
+                        {
+                            "key": "Split Rear Seat",
+                            "value": "60:40"
+                        },
+                        {
+                            "key": "Folding Rear Seat",
+                            "value": "Flat"
+                        },
+                        {
+                            "key": "Rear Passenger Seat Type",
+                            "value": "Bench"
+                        },
+                        {
+                            "key": "Cabin Boot Access",
+                            "value": "Yes"
+                        },
+                        {
+                            "key": "Ventilated Seats",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Driver Armrest",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Rear Armrest",
+                            "value": "No"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Infotainment & Entertainment",
+            "value": [
+                {
+                    "key": "Display",
+                    "value": [
+                        {
+                            "key": "Infotainment Screen",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Smart Connectivity",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Input Methods",
+                            "value": "No"
+                        },
+                        {
+                            "key": "GPS Navigation System",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "key": "Connectivity",
+                    "value": [
+                        {
+                            "key": "Bluetooth Compatibility",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Voice Command",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Gesture Control",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "key": "Audio & Sound Experience",
+                    "value": [
+                        {
+                            "key": "Antenna",
+                            "value": "Roof-Mounted Antenna"
+                        },
+                        {
+                            "key": "Audio System",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Integrated (in-dash) Music System",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "key": "Device Charging",
+                    "value": [
+                        {
+                            "key": "Charging Ports",
+                            "value": "12V Power Outlet"
+                        },
+                        {
+                            "key": "Wireless Charger",
+                            "value": "No"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Instrument Cluster",
+            "value": [
+                {
+                    "key": "Display",
+                    "value": [
+                        {
+                            "key": "Instrument Cluster Screen",
+                            "value": "Analogue - Digital Instrument Cluster with Adjustable Cluster Brightness"
+                        },
+                        {
+                            "key": "Tachometer",
+                            "value": "Analogue"
+                        },
+                        {
+                            "key": "Gear Indicator",
+                            "value": "Yes"
+                        },
+                        {
+                            "key": "Heads Up Display (HUD)",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Gear Shift Indicator",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "key": "Trip & Fuel Data",
+                    "value": [
+                        {
+                            "key": "Trip Meter",
+                            "value": "2 Trips Electronic"
+                        },
+                        {
+                            "key": "Clock",
+                            "value": "Digital"
+                        },
+                        {
+                            "key": "Fuel Consumption",
+                            "value": "Average Fuel Consumption & Distance to Empty"
+                        },
+                        {
+                            "key": "Average Speed",
+                            "value": "No"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Steering",
+            "value": [
+                {
+                    "key": "Steering",
+                    "value": "Power assisted (Electric) steering"
+                },
+                {
+                    "key": "Steering Adjustment",
+                    "value": "Tilt"
+                },
+                {
+                    "key": "Steering-Mounted Controls",
+                    "value": "No"
+                }
+            ]
+        },
+        {
+            "key": "Lighting & Visibilty",
+            "value": [
+                {
+                    "key": "Headlamp",
+                    "value": [
+                        {
+                            "key": "Headlights",
+                            "value": "Halogen Projector"
+                        },
+                        {
+                            "key": "Headlight Height Adjuster",
+                            "value": "Yes"
+                        },
+                        {
+                            "key": "Daytime Running Lights (DRL)",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Cornering Headlights",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Fog Lights",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Follow Me Home Headlamps",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Automatic Headlamps",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "key": "Indicators & Puddle Lamp",
+                    "value": [
+                        {
+                            "key": "Puddle Lamps",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "key": "Taillight",
+                    "value": [
+                        {
+                            "key": "Taillights",
+                            "value": "LED"
+                        }
+                    ]
+                },
+                {
+                    "key": "Cabin Lights",
+                    "value": [
+                        {
+                            "key": "Interior Lamps",
+                            "value": "Centre Reading Lamp,"
+                        },
+                        {
+                            "key": "Ambient Interior Lighting",
+                            "value": "No"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Mobile App & Remote Controls",
+            "value": [
+                {
+                    "key": "Mobile App",
+                    "value": [
+                        {
+                            "key": "Find My Car",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Geo-fence",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Check Vehicle Status via App",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Alexa Compatibility",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "key": "Remote Controls",
+                    "value": [
+                        {
+                            "key": "Emergency Call Button",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Over The Air (OTA) Updates",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Remote AC: On / Off via App",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Remote Car Lock/Unlock via App",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Remote Sunroof: Open / Close via App",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Car Light Flashing & Honking via App",
+                            "value": "No"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Design & Styling",
+            "value": [
+                {
+                    "key": "Exterior",
+                    "value": [
+                        {
+                            "key": "Roof Rails",
+                            "value": "Yes"
+                        },
+                        {
+                            "key": "Exhaust",
+                            "value": "Chrome Finish"
+                        },
+                        {
+                            "key": "Body-coloured Bumpers",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "key": "Interior",
+                    "value": [
+                        {
+                            "key": "Interior",
+                            "value": "Dual Tone"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Warning & Alerts",
+            "value": [
+                {
+                    "key": "Overspeed Warning",
+                    "value": "1 beep over 80kmph, Continuous beeps over 120kmph"
+                },
+                {
+                    "key": "Door Ajar Warning",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Seat Belt Warning",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Headlight and Ignition on Reminder",
+                    "value": "Yes"
+                }
+            ]
+        }
+    ]
+}
